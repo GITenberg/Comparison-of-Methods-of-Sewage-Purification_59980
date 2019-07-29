@@ -1,0 +1,23 @@
+_repo: Comparison-of-Methods-of-Sewage-Purification_59980
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Phillips, Theodore Clifford
+    gutenberg_agent_id: '50718'
+    url: http://www.gutenberg.org/2009/agents/50718
+  - agent_name: Schneider, Edward John
+    gutenberg_agent_id: '50719'
+    url: http://www.gutenberg.org/2009/agents/50719
+description: ''
+gutenberg_issued: '2019-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Comparison of Methods of Sewage Purification
+url: http://www.gutenberg.org/ebooks/59980
